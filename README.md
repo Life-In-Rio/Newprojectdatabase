@@ -11,11 +11,13 @@ Aplikasi ini dibuat dengan tampilan yang simpel dan modern.
 💾 Penyimpanan Data Lokal dengan SQLite
 
 🛠️ Teknologi yang Digunakan
+
 Flutter
 Dart
 SQLite (sqflite)
 
 📱 Tampilan Aplikasi
+
 Aplikasi memiliki tampilan sederhana dengan fitur CRUD (Create, Read, Update, Delete) untuk mengelola catatan.
 
 📂 Struktur Project
