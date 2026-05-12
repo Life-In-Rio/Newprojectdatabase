@@ -1,38 +1,62 @@
-📝 Note App
+# 📝 My Notes App
 
-Aplikasi catatan sederhana berbasis Flutter yang menggunakan SQLite sebagai penyimpanan database lokal.
-Aplikasi ini dibuat dengan tampilan yang simpel dan modern.
+Aplikasi catatan sederhana berbasis Flutter yang dibuat untuk membantu pengguna menyimpan dan mengatur catatan sehari-hari dengan lebih praktis.  
+Data disimpan secara lokal menggunakan SQLite sehingga aplikasi tetap dapat digunakan tanpa koneksi internet.  
+Selain itu, aplikasi juga dilengkapi dengan fitur Dark Mode untuk memberikan pengalaman penggunaan yang lebih nyaman.
 
-✨ Fitur
-🌙 Dark Mode
-➕ Tambah Catatan
-✏️ Edit Catatan
-🗑️ Hapus Catatan
-💾 Penyimpanan Data Lokal dengan SQLite
+---
 
-🛠️ Teknologi yang Digunakan
+## ✨ Fitur Utama
 
-Flutter
-Dart
-SQLite (sqflite)
+- ➕ **Tambah Catatan**
+- ✏️ **Edit Catatan**
+- 🗑️ **Hapus Catatan**
+- 🌙 **Dark Mode & Light Mode**
+- 💾 **Database Lokal menggunakan SQLite**
+- 📱 **Tampilan Grid Card Modern**
+- 👤 Mendukung **Judul, Isi Catatan, dan Author**
 
-📱 Tampilan Aplikasi
+---
 
-Aplikasi memiliki tampilan sederhana dengan fitur CRUD (Create, Read, Update, Delete) untuk mengelola catatan.
+## 🛠️ Teknologi yang Digunakan
 
-📂 Struktur Project
+- **Flutter**
+- **Dart**
+- **sqflite**
+- **path_provider**
+
+---
+
+## 📸 Tampilan Aplikasi
+
+| Light Mode | Dark Mode |
+|------------|------------|
+|---<img width="239" height="514" alt="Screenshot 2026-05-12 104851" src="https://github.com/user-attachments/assets/67ba8725-0aea-463c-9ee0-2c1458778eec" /> |<img width="239" height="514" alt="Screenshot 2026-05-12 104904" src="https://github.com/user-attachments/assets/7d9d8c82-9ac7-4d2f-a954-fb31d1239038" />|
+
+
+
+
+## 📂 Struktur Project
+
+```bash
 lib/
 ├── main.dart
 ├── pages/
 ├── models/
 ├── services/
 └── widgets/
+```
 
-🎯Project ini dibuat untuk belajar:
+---
 
-CRUD di Flutter
-Penggunaan SQLite
-Pengelolaan database lokal
-Pembuatan UI sederhana
+## 🎯 Tujuan Project
 
-Develop by Mas Rusdi ambangawi 🚀
+Project ini dibuat untuk mempelajari:
+
+- CRUD di Flutter
+- Penggunaan SQLite
+- Manajemen database lokal
+- State Management dasar
+- Pembuatan UI modern di Flutter
+
+# Develop by Mas Rusdi Ambangawi 🚀
