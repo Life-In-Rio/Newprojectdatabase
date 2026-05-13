@@ -29,12 +29,12 @@ Selain itu, aplikasi juga dilengkapi dengan fitur Dark Mode untuk memberikan pen
 
 ## 📸 Tampilan Aplikasi
 
-| Light Mode | Dark Mode |
-|------------|------------|
-|---<img width="239" height="514" alt="Screenshot 2026-05-12 104851" src="https://github.com/user-attachments/assets/67ba8725-0aea-463c-9ee0-2c1458778eec" /> |<img width="239" height="514" alt="Screenshot 2026-05-12 104904" src="https://github.com/user-attachments/assets/7d9d8c82-9ac7-4d2f-a954-fb31d1239038" />|
+| Light Mode | Dark Mode | Update Mode |
+|------------|------------|------------|
+|---<img width="239" height="514" alt="Screenshot 2026-05-12 104851" src="https://github.com/user-attachments/assets/67ba8725-0aea-463c-9ee0-2c1458778eec" /> |<img width="239" height="514" alt="Screenshot 2026-05-12 104904" src="https://github.com/user-attachments/assets/7d9d8c82-9ac7-4d2f-a954-fb31d1239038" />| <img width="239" height="514" alt="Screenshot 2026-05-13 110347" src="https://github.com/user-attachments/assets/33c34f0e-2f38-4e2a-b5cd-b8788aab8bc7" /> |
 
 
-
+ 
 
 ## 📂 Struktur Project
 
